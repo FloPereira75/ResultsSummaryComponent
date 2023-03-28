@@ -142,7 +142,12 @@ main {
     align-items: center;
 }
 
+.component_summary_category_score {
+    color: hsl(241, 100%, 89%);
+}
+
 .component_summary_category_score span {
+    color: hsl(224, 30%, 27%);
     font-weight: 800;
 }
 
